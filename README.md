@@ -1,1 +1,5 @@
-# null-project
+# Null Project
+
+* Discord : kemosalvo
+* Telegram : @tehlikeliadam
+  
